@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1614695117464,268,HTTP Request,200,OK,SG API: Thread Group 1-1,text,true,,2275,169,2,2,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,268,0,142
+1614695117719,218,HTTP Request,200,OK,SG API: Thread Group 1-2,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,218,0,98
+1614695117968,217,HTTP Request,200,OK,SG API: Thread Group 1-3,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,217,0,101
+1614695118219,215,HTTP Request,200,OK,SG API: Thread Group 1-4,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,215,0,105
+1614695118468,228,HTTP Request,200,OK,SG API: Thread Group 1-5,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,228,0,107
+1614695118718,224,HTTP Request,200,OK,SG API: Thread Group 1-6,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,224,0,98
+1614695118968,212,HTTP Request,200,OK,SG API: Thread Group 1-7,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,211,0,98
+1614695119218,222,HTTP Request,200,OK,SG API: Thread Group 1-8,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,222,0,100
+1614695119468,223,HTTP Request,200,OK,SG API: Thread Group 1-9,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,223,0,101
+1614695119716,211,HTTP Request,200,OK,SG API: Thread Group 1-10,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,211,0,101
+1614695119967,218,HTTP Request,200,OK,SG API: Thread Group 1-11,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,218,0,99
+1614695120216,213,HTTP Request,200,OK,SG API: Thread Group 1-12,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,213,0,97
+1614695120467,213,HTTP Request,200,OK,SG API: Thread Group 1-13,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,213,0,97
+1614695120717,210,HTTP Request,200,OK,SG API: Thread Group 1-14,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,210,0,98
+1614695120967,218,HTTP Request,200,OK,SG API: Thread Group 1-15,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,218,0,99
+1614695121217,215,HTTP Request,200,OK,SG API: Thread Group 1-16,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,215,0,100
+1614695121469,220,HTTP Request,200,OK,SG API: Thread Group 1-17,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,220,0,110
+1614695121719,218,HTTP Request,200,OK,SG API: Thread Group 1-18,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,218,0,99
+1614695121965,223,HTTP Request,200,OK,SG API: Thread Group 1-19,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,222,0,98
+1614695122219,220,HTTP Request,200,OK,SG API: Thread Group 1-20,text,true,,2275,169,1,1,http://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49,220,0,106
